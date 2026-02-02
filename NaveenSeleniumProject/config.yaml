@@ -1,0 +1,6 @@
+# LambdaTest AI Cloud Configuration
+project_id: "01KGF9TR6M3WD973YDHPH08229"
+folder_id: "01KGF9V483GDZVC7VD4GDASXMD"
+assignee: your_user_id
+environment_id: environment_id
+test_url: "https://your-deployed-app-url.com/"
